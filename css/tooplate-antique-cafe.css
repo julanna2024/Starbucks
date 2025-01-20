@@ -23,7 +23,7 @@ p a:hover {
 #about p a { color: #066; }
 #about p a:hover { color: #F36; }
 
-#contact p a { color: #de7335; }
+#contact p a { color: 087afd; }
 
 footer span a { color: #FFF; }
 
@@ -41,11 +41,11 @@ footer span a { color: #FFF; }
 }
 
 .tm-text-yellow {
-    color:  #de7335;
+    color:  087afd;
 }
 
 .tm-text-gold {
-    color: #de7335;
+    color: #087afd;
 }
 
 .tm-text-brown {
@@ -53,7 +53,7 @@ footer span a { color: #FFF; }
 }
 
 .tm-text-green {
-    color: #de7335;
+    color: 087afd;
 }
 
 a.tm-bg-green:hover {
